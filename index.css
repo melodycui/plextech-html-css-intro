@@ -46,3 +46,106 @@ p {
 }
 
 /* TODO: Add CSS for the rest of your solution below */
+
+.wrapperThree {
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  background-color: green;
+  margin-bottom: 20px;
+}
+
+
+.redThree {
+  width: 40px;
+  background-color: red;
+}
+
+.blueThree {
+  width: 40px;
+  background-color: blue;
+}
+
+.wrapperFour {
+  display: flex;
+  height: 60px;
+  background-color: red;
+  margin-bottom: 20px;
+}
+
+
+.wrapperFive {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  justify-content: center;
+  background-color: green;
+  
+}
+
+.redFive {
+  width: 40px;
+  height: 40px;
+  background-color: red;
+}
+
+
+.wrapperSix {
+  display: flex;
+  height: 60px;
+}
+
+.redSix {
+  width: 40%;
+  background-color: red;
+}
+
+.blueSix {
+  width: 20%;
+  background-color: blue;
+}
+
+.wrapperSeven {
+  display: flex;
+  height: 60px;
+  margin-bottom: 20px;
+  
+}
+
+.blueSeven{
+  
+  width: 75%;
+  background-color: blue;
+  display: flex;
+  align-items: center;
+
+}
+
+.redSeven{
+  width: 25%;
+  background-color: red;
+  
+
+}
+
+.greenSeven{
+  
+  height:33%;
+  width: 100%;
+  background-color: green;
+
+}
+
+.wrapperEight{
+  display: flex;
+  height: 60px;
+  background-color: green;
+  margin-bottom: 20px;
+  justify-content: space-between;
+
+}
+
+.orangeEight {
+  background-color: orange;
+  width: 45px;
+}
